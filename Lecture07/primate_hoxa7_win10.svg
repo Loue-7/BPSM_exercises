@@ -1,0 +1,1574 @@
+<document>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    version="1.1"
+    width="20cm"
+    height="15cm"
+    viewBox="0 0 720 540"
+    >
+    <rect
+      x="0"
+      y="0"
+      width="720"
+      height="540"
+      stroke="none"
+      fill="#FFFFFF"
+      />
+    <g
+      transform="matrix(1 0 0 -1 0 540)"
+      >
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,31 50,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,31 50,40"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,40 50,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,31 77,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,31 77,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,36 77,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,31 105,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,31 105,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,36 105,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,31 132,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,31 132,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,36 132,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,31 159,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,31 159,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,36 159,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,31 187,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,31 187,40"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,40 187,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,31 214,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,31 214,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,36 214,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,31 241,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,31 241,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,36 241,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,31 268,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,31 268,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,36 268,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,31 296,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,31 296,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,36 296,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,31 323,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,31 323,40"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,40 323,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,31 350,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,31 350,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,36 350,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,31 378,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,31 378,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,36 378,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,31 405,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,31 405,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,36 405,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,31 432,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,31 432,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,36 432,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,31 460,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,31 460,40"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,40 460,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,31 487,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,31 487,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,36 487,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,31 514,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,31 514,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,36 514,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,31 542,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,31 542,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,36 542,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,31 569,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,31 569,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,36 569,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,31 596,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,31 596,40"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,40 596,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,31 623,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,31 623,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,36 623,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,31 651,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,31 651,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,36 651,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,31 678,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,31 678,36"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,36 678,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,31 689,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,31 689,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,31 680,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="680,31 689,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,31 689,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,68 684,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,68 689,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,68 689,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,106 684,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,106 689,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,106 689,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,143 684,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,143 689,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,143 689,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,180 680,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="680,180 689,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,180 689,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,217 684,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,217 689,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,217 689,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,255 684,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,255 689,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,255 689,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,292 684,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,292 689,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,292 689,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,329 680,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="680,329 689,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,329 689,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,366 684,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,366 689,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,366 689,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,404 684,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,404 689,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,404 689,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,441 684,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="684,441 689,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,441 689,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,478 680,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="680,478 689,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,478 689,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="689,508 678,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,508 678,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,503 678,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="678,508 651,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,508 651,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,503 651,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="651,508 623,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,508 623,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,503 623,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="623,508 596,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,508 596,499"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,499 596,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="596,508 569,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,508 569,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,503 569,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="569,508 542,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,508 542,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,503 542,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="542,508 514,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,508 514,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,503 514,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="514,508 487,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,508 487,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,503 487,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="487,508 460,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,508 460,499"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,499 460,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="460,508 432,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,508 432,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,503 432,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="432,508 405,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,508 405,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,503 405,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="405,508 378,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,508 378,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,503 378,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="378,508 350,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,508 350,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,503 350,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="350,508 323,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,508 323,499"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,499 323,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="323,508 296,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,508 296,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,503 296,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="296,508 268,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,508 268,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,503 268,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="268,508 241,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,508 241,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,503 241,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="241,508 214,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,508 214,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,503 214,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="214,508 187,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,508 187,499"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,499 187,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="187,508 159,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,508 159,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,503 159,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="159,508 132,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,508 132,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,503 132,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="132,508 105,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,508 105,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,503 105,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="105,508 77,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,508 77,503"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,503 77,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="77,508 50,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,508 50,499"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,499 50,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,508 50,508"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,508 50,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,478 59,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="59,478 50,478"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,478 50,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,441 55,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,441 50,441"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,441 50,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,404 55,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,404 50,404"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,404 50,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,366 55,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,366 50,366"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,366 50,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,329 59,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="59,329 50,329"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,329 50,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,292 55,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,292 50,292"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,292 50,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,255 55,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,255 50,255"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,255 50,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,217 55,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,217 50,217"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,217 50,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,180 59,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="59,180 50,180"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,180 50,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,143 55,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,143 50,143"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,143 50,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,106 55,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,106 50,106"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,106 50,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,68 55,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="55,68 50,68"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,68 50,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,31 59,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="59,31 50,31"
+        />
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="50,31 50,31"
+        />
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 50 19)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 187 19)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x35;&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 323 19)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x31;&#x30;&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 459 19)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x31;&#x35;&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 596 19)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x32;&#x30;&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(0.000000 1.000000 1.000000 -0.000000 41 29)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x30;&#x2e;&#x30;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(0.000000 1.000000 1.000000 -0.000000 41 178)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x30;&#x2e;&#x32;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(0.000000 1.000000 1.000000 -0.000000 41 327)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x30;&#x2e;&#x34;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(0.000000 1.000000 1.000000 -0.000000 41 476)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x30;&#x2e;&#x36;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 369 521)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x53;&#x69;&#x6d;&#x69;&#x6c;&#x61;&#x72;&#x69;&#x74;&#x79;&#x20;&#x50;&#x6c;&#x6f;&#x74;&#x20;&#x6f;&#x66;&#x20;&#x41;&#x6c;&#x69;&#x67;&#x6e;&#x65;&#x64;&#x20;&#x53;&#x65;&#x71;&#x75;&#x65;&#x6e;&#x63;&#x65;&#x73;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(1.000000 0.000000 -0.000000 -1.000000 369 8)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x52;&#x65;&#x6c;&#x61;&#x74;&#x69;&#x76;&#x65;&#x20;&#x52;&#x65;&#x73;&#x69;&#x64;&#x75;&#x65;&#x20;&#x50;&#x6f;&#x73;&#x69;&#x74;&#x69;&#x6f;&#x6e;</tspan>
+        </text>
+      </g>
+      <g
+        transform="matrix(0.000000 1.000000 1.000000 -0.000000 19 267)"
+        >
+        <text
+          dominant-baseline="no-change"
+          x="0"
+          y="0"
+          fill="#000000"
+          xml:space="preserve"
+          font-size="9"
+          text-anchor="middle"
+><tspan font-family="sans-serif" font-style="normal" font-weight="normal">&#x53;&#x69;&#x6d;&#x69;&#x6c;&#x61;&#x72;&#x69;&#x74;&#x79;</tspan>
+        </text>
+      </g>
+      <polyline
+        stroke-width="1"
+        stroke="#000000"
+        fill="none"
+        points="53,31 55,31 58,31 61,31 64,31 66,396 69,404 72,404 75,411 77,433 
+        80,419 83,396 85,411 88,393 91,393 94,393 96,393 99,400 102,408 105,385 
+        107,385 110,408 113,400 116,404 118,441 121,440 124,440 126,433 129,440 132,455 
+        135,448 137,433 140,433 143,433 146,410 148,433 151,432 154,432 156,414 159,396 
+        162,411 165,401 167,408 170,404 173,389 176,374 178,361 181,383 184,394 187,397 
+        189,405 192,422 195,407 197,426 200,426 203,441 206,441 208,441 211,430 214,430 
+        217,430 219,430 222,430 225,415 227,430 230,430 233,445 236,422 238,433 241,433 
+        244,426 247,411 249,433 252,425 255,425 258,403 260,410 263,447 266,430 268,430 
+        271,437 274,452 277,437 279,461 282,446 285,466 288,459 290,422 293,462 296,459 
+        298,452 301,437 304,428 307,420 309,435 312,414 315,437 318,452 320,422 323,417 
+        326,417 329,424 331,441 334,417 337,402 339,432 342,410 345,386 348,379 350,394 
+        353,379 356,386 359,386 361,410 364,410 367,402 369,410 372,471 375,478 378,476 
+        380,476 383,462 386,462 389,476 391,491 394,476 397,462 400,417 402,424 405,426 
+        408,433 410,441 413,448 416,433 419,426 421,441 424,441 427,441 430,426 432,426 
+        435,419 438,419 440,404 443,404 446,411 449,419 451,426 454,433 457,441 460,456 
+        462,456 465,456 468,456 471,456 473,448 476,426 479,411 481,404 484,394 487,370 
+        490,400 492,392 495,385 498,415 501,407 503,407 506,415 509,415 511,424 514,426 
+        517,401 520,399 522,451 525,429 528,436 531,443 533,443 536,443 539,443 542,451 
+        544,498 547,508 550,463 552,456 555,478 558,471 561,473 563,467 566,459 569,467 
+        572,402 574,394 577,379 580,366 582,331 585,346 588,344 591,357 593,344 596,326 
+        599,360 602,361 604,362 607,364 610,364 613,336 615,327 618,306 621,311 623,318 
+        626,296 629,294 632,308 634,314 637,317 640,338 643,310 645,287 648,265 651,266 
+        653,278 656,288 659,284 662,286 664,289 667,282 670,319 673,354 675,386 678,350 
+        681,31 684,31 686,31 689,31 "/>
+    </g>
+  </svg>
+</document>
